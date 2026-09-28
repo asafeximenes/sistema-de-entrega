@@ -1,3 +1,9 @@
+# Minha participação
+
+Participei da concepção da ideia do sistema e do desenvolvimento de partes da interface e experiência visual da aplicação, em colaboração com outro integrante da equipe.
+
+
+
 # Sistema de Agendamento de Entrega
 
 Um aplicativo React Native desenvolvido com Expo para gerenciamento de agendamentos de entrega, seguindo as melhores práticas de desenvolvimento.
@@ -74,40 +80,6 @@ my-app/
 - Tabelas: `users` e `appointments`
 - Dados permanentes entre sessões
 
-## 🎯 Melhorias Implementadas
-
-### ✅ **Boas Práticas Seguidas**
-1. **Separação de Estilos**: CSS isolado em arquivo dedicado
-2. **Componentes Reutilizáveis**: UI modular e consistente
-3. **Hooks Personalizados**: Lógica de negócio separada da apresentação
-4. **Tipagem TypeScript**: Código mais seguro e manutenível
-5. **Tratamento de Erros**: Feedback consistente para o usuário
-
-### 🆕 **Novas Funcionalidades**
-1. **Dashboard do Usuário**: Visão geral das entregas pessoais
-2. **Histórico Completo**: Todas as entregas do usuário
-3. **Navegação Intuitiva**: Botões para alternar entre funcionalidades
-4. **Estados de Carregamento**: Feedback visual durante operações
-5. **Estados Vazios**: Mensagens informativas quando não há dados
-
-## 🔧 Como Usar
-
-### **Usuário Normal**
-1. Login: `luquinhas@mdisia.com` / `123456`
-2. Dashboard: Visualizar estatísticas pessoais
-3. Agendar: Nova entrega com seleção de data/horário
-4. Histórico: Ver todas as entregas passadas
-
-### **Administrador**
-1. Login: `admin@admin.com` / `123456`
-2. Painel: Gerenciar todas as entregas do sistema
-3. Ações: Marcar entregas como concluídas ou falhadas
-
-### **Criar Usuário**
-1. Na tela de login, clique em "Criar Novo Usuário"
-2. Preencha: Nome, Email, Endereço
-3. Usuário pode fazer login imediatamente
-
 ## 🛠️ Tecnologias
 
 - **React Native + Expo**: Framework mobile
@@ -116,10 +88,5 @@ my-app/
 - **Expo Router**: Navegação
 - **Componentes Temáticos**: Suporte a modo claro/escuro
 
-## 📱 Executar o Projeto
-
-```bash
-npm start
-```
 
 O app está completamente refatorado seguindo as melhores práticas de desenvolvimento, com código mais limpo, manutenível e escalável.
