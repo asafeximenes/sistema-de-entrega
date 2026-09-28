@@ -73,7 +73,6 @@ my-app/
 ### 🔐 **Sistema de Autenticação**
 - Login baseado em credenciais específicas
 - Redirecionamento automático baseado no tipo de usuário
-- Senha padrão: `123456`
 
 ### 📊 **Banco de Dados**
 - **SQLite** para persistência local
