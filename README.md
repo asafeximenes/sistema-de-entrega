@@ -8,9 +8,9 @@ Participei da concepção da ideia do sistema e do desenvolvimento de partes da 
 
 Um aplicativo React Native desenvolvido com Expo para gerenciamento de agendamentos de entrega, seguindo as melhores práticas de desenvolvimento.
 
-## 🏗️ Arquitetura e Boas Práticas
+## Arquitetura e Boas Práticas
 
-### 📁 Estrutura de Pastas
+### Estrutura de Pastas
 
 ```
 my-app/
@@ -29,7 +29,7 @@ my-app/
 └── package.json
 ```
 
-### 🎨 Separação de Responsabilidades
+### Separação de Responsabilidades
 
 #### **Estilos (`styles/index.ts`)**
 - Todos os estilos CSS separados dos componentes
@@ -56,36 +56,33 @@ my-app/
 - Funções tipadas para todas as operações
 - Tratamento de erros consistente
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
-### 👤 **Para Usuários**
+### **Para Usuários**
 - **Dashboard**: Visualização de estatísticas pessoais
 - **Agendamento**: Seleção de data e horário com capacidade máxima
 - **Histórico**: Visualização de todas as entregas (pendentes, concluídas, falhadas)
 - **Navegação**: Entre telas de agendamento e histórico
 
-### 👨‍💼 **Para Administradores**
+### **Para Administradores**
 - **Painel Completo**: Todas as entregas do sistema
 - **Estatísticas**: Contadores em tempo real
 - **Gerenciamento**: Marcar entregas como concluídas ou falhadas
 - **Visão Detalhada**: Informações completas de cada entrega
 
-### 🔐 **Sistema de Autenticação**
+### **Sistema de Autenticação**
 - Login baseado em credenciais específicas
 - Redirecionamento automático baseado no tipo de usuário
 
-### 📊 **Banco de Dados**
+### **Banco de Dados**
 - **SQLite** para persistência local
 - Tabelas: `users` e `appointments`
 - Dados permanentes entre sessões
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - **React Native + Expo**: Framework mobile
 - **TypeScript**: Tipagem estática
 - **SQLite**: Banco de dados local
 - **Expo Router**: Navegação
 - **Componentes Temáticos**: Suporte a modo claro/escuro
-
-
-O app está completamente refatorado seguindo as melhores práticas de desenvolvimento, com código mais limpo, manutenível e escalável.
